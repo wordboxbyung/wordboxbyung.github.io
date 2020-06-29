@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Privacy Policy
+permalink: /privacy/
 ---
 
 Privacy Policy:
