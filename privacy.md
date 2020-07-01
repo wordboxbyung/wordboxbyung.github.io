@@ -21,7 +21,7 @@ By using the Service, you accept the privacy practices described in this Privacy
 We collect information you provide directly to us. In particular, we may collect the following information from you that may, in certain circumstances, constitute personal information:
 * Images, sounds and text for the purpose of providing feedback about the Service.
 * Your email address, if you choose to request support or provide feedback about the Service.
-Additionally, we may collect any other information you provide while interacting with us. If you contact us, a record of this correspondence may be kept.
+* Additionally, we may collect any other information you provide while interacting with us. If you contact us, a record of this correspondence may be kept.
 
 We may automatically collect the following information from you that in certain circumstances may constitute personal information:
 * Usage and log information. We may collect service-related, diagnostic, and performance information. This includes information about your activity, performance logs and reports.
@@ -86,10 +86,10 @@ Please be aware that we may change this Privacy Policy in the future. We may mod
 
 ## Website
 
-### When you visit our website.
+### When you visit our website
 When you come to our website (https://wordboxbyung.github.io) we may collect certain information such as browser type, operating system, website visited immediately before coming to our site, etc. This information is used in an aggregated manner to analyse how people use our site, such that we can improve our service.
 
-### Cookies. 
+### Cookies
 We may from time to time use cookies on our website. Cookies are very small files which a website uses to identify you when you come back to the site and to store details about your use of the site. Cookies are not malicious programs that access or damage your computer. Most web browsers automatically accept cookies but you can choose to reject cookies by changing your browser settings. However, this may prevent you from taking full advantage of our website. Our website may from time to time use cookies to analyses website traffic and help us provide a better website visitor experience. In addition, cookies may be used to serve relevant ads to website visitors through third party services such as Google Adwords. These ads may appear on this website or other websites you visit.
 
 ### Third party websites
