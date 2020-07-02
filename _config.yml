@@ -27,7 +27,8 @@ email: wordboxbyung@gmail.com
 #github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-cayman
+markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
