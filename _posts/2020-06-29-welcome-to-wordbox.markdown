@@ -27,6 +27,6 @@ It’s main features includes:
 
 See [FAQ](https://wordboxbyung.github.io/faq/) on how to perform this basic tasks.
 
-We are commit to improve this app and would love to get your feedback and suggestions.
+We are commit to improve this app and would love to hear your feedback and suggestions.
 
 The WordBox Team.
