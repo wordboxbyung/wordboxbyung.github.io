@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /how_to_add_word/
+permalink: /faq_test_flagged_words/
 ---
 
 TBA...

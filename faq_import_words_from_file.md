@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /how_to_add_word/
+permalink: /faq_import_words_from_file/
 ---
 
 TBA...
