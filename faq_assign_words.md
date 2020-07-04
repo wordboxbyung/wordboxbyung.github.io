@@ -14,4 +14,4 @@ permalink: /faq_assign_words/
 1. When your child recieved your email, they can open the attachment with their WordBox app to import those words in the file that you assigned them to learn.
 1. One finished learning the words, they can tap on Test to bright up a test page
 1. Tap on Play to pronunce a word for them to spell...
-<img src="https://wordboxbyung.github.io/images/Ultralight-S.png"/>
+<img src="https://wordboxbyung.github.io/images/Ultralight-S.png"/> Test button
