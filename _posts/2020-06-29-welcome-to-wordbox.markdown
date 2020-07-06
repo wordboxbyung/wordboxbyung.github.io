@@ -25,7 +25,7 @@ It’s main features includes:
 * Email test results to parent to monitor their child’s progress.
 * No ads.
 
-See [FAQ](https://wordboxbyung.github.io/faq/) on how to perform this basic tasks.
+See [FAQ](https://wordboxbyung.github.io/faq/) on how to perform some of these tasks.
 
 We are commit to improve this app and would love to hear your feedback and suggestions.
 
