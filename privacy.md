@@ -14,7 +14,7 @@ In this Privacy Policy, "personal information" is information we hold which is i
 
 We wish to remind you that this Privacy Policy applies to personal information we process when you use the Service. It does not apply to any third parties’ websites and/or services that you encounter when you use the Service.
 
-By using the Service, you accept the privacy practices described in this Privacy Policy.
+By using the Service, you agree to this Privacy Policy.
 
 ## Collection of personal information
 
