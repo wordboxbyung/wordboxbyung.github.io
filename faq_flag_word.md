@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /faq_delete_words/
+permalink: /faq_flag_word/
 ---
 **How to flag or unflag word?**
 1. Tap `Word Store` at the bottom tab bar to show Word Store page.
