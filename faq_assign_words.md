@@ -9,7 +9,7 @@ permalink: /faq_assign_words/
     1. Tap `...` at the top right corner of the `Word Store` page to bring up an action sheet.
     1. Tap `Select Words...` to enter selection mode.
     1. Select words you want to assign. Tap <img src="https://wordboxbyung.github.io/images/checkmark.png"/> at the top navigation bar to select all words.
-    1. Tap on the assign icon <img src="https://wordboxbyung.github.io/images/assign.png"/> to bring up an activity controller.
+    1. Tap assign icon <img src="https://wordboxbyung.github.io/images/assign.png"/> to bring up an activity controller.
     1. Select `Mail`, enter your child's email address and tap on send button to send the email with attachment containing the assigned words to your child. Assigned words are red-flagged.
     1. Tap on `Done` at the right corner of the page to cancell selction mode.
 
