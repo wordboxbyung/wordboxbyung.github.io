@@ -8,9 +8,9 @@ Latest update: 1st July 2020
 
 ## Introduction
 
-WordBox is provided by LEANG UNG, a Sole Trader registered in Sydney Australia. We are committed to protecting and respecting your privacy. This Privacy Policy applies to our WordBox application and website at wordboxbyung.github.io and sets out how we collect and treat your personal information.
+WordsApp is provided by LEANG UNG, a Sole Trader registered in Sydney Australia. We are committed to protecting and respecting your privacy. This Privacy Policy applies to our WordsApp application and this website at wordboxbyung.github.io and sets out how we collect and treat your personal information.
 
-In this Privacy Policy, "personal information" is information we hold which is identifiable as being about you and “Service” refers to the WordBox application and our website collectively.
+In this Privacy Policy, "personal information" is information we hold which is identifiable as being about you and “Service” refers to the WordsApp application and our website collectively.
 
 We wish to remind you that this Privacy Policy applies to personal information we process when you use the Service. It does not apply to any third parties’ websites and/or services that you encounter when you use the Service.
 
@@ -18,7 +18,7 @@ By using the Service, you agree to this Privacy Policy.
 
 ## Collection of personal information
 
-We collect information you provide directly to us. In particular, we may collect the following information from you that may, in certain circumstances, constitute personal information:
+We collect information you provide directly to us. In particular, we may collect the following information from you that may constitute personal information:
 * Images, sounds and text for the purpose of providing feedback about the Service.
 * Your email address, if you choose to request support or provide feedback about the Service.
 * Additionally, we may collect any other information you provide while interacting with us. If you contact us, a record of this correspondence may be kept.
@@ -62,7 +62,7 @@ By providing us with personal information, you consent to the terms of this Priv
 
 ## Security of your personal information
 
-We are committed to ensuring that the information you provide to us is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.
+In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.
 
 The transmission and exchange of information is carried out at your own risk. We cannot guarantee the security of any information that you transmit to us, or receive from us. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.
 
