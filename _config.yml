@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WordBox
+title: WordsApp
 author:
-  name: The WordBox Team
+  name: The WordsApp Team
   email: wordboxbyung@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
