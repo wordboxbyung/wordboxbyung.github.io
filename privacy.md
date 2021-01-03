@@ -8,7 +8,7 @@ Latest update: 1st July 2020
 
 ## Introduction
 
-WordsApp is provided by LEANG UNG, a Sole Trader registered in Sydney Australia. We are committed to protecting and respecting your privacy. This Privacy Policy applies to our WordsApp application and this website at wordboxbyung.github.io and sets out how we collect and treat your personal information.
+WordsApp is provided by LEANG UNG, a Sole Trader registered in Sydney Australia. We are committed to protecting and respecting your privacy. This Privacy Policy applies to our WordsApp application and this website and sets out how we collect and treat your personal information.
 
 In this Privacy Policy, "personal information" is information we hold which is identifiable as being about you and “Service” refers to the WordsApp application and our website collectively.
 
@@ -23,7 +23,7 @@ We collect information you provide directly to us. In particular, we may collect
 * Your email address, if you choose to request support or provide feedback about the Service.
 * Additionally, we may collect any other information you provide while interacting with us. If you contact us, a record of this correspondence may be kept.
 
-We may automatically collect the following information from you that in certain circumstances may constitute personal information:
+We may automatically collect the following information from you that may constitute personal information:
 * Usage and log information. We may collect service-related, diagnostic, and performance information. This includes information about your activity, performance logs and reports.
 * Device and Connection Information. We may collect device-specific information when you install, access, or use the Service. This includes information such as hardware model, operating system information, browser information, IP address, mobile network information including phone number, and device identifiers.
 
@@ -52,7 +52,7 @@ We may disclose your personal information to any of our employees, officers, ins
 
 We may from time to time need to disclose personal information to comply with a legal requirement, such as a law, regulation, court order, subpoena, warrant, in the course of a legal proceeding or in response to a law enforcement agency request.
 
-We may also use your personal information to protect the copyright, trademarks, legal rights, property or safety of LEANG UNG, https://wordboxbyung.github.io, its customers or third parties.
+We may also use your personal information to protect the copyright, trademarks, legal rights, property or safety of LEANG UNG, its websites, its customers or third parties.
 
 Information that we collect may from time to time be stored, processed in or transferred between parties located in countries outside of Australia.
 
@@ -68,26 +68,24 @@ The transmission and exchange of information is carried out at your own risk. We
 
 ## International transfers of your personal information
 
-Our website may be hosted on servers located in countries outside your own country. The laws applicable to the protection of personal data in such countries may be different from those applicable in your home country. In particular, if you are located within the European Union, please note that personal data collected by us is transferred outside the European Union / European Economic Area. You consent to personal data about you being transferred outside your own country and, where applicable, outside the European Union / European Economic Area.
+Our website may be hosted on servers located in countries outside your own country. The laws applicable to the protection of personal information in such countries may be different from those applicable in your home country. In particular, if you are located within the European Union, please note that personal information collected by us is transferred outside the European Union / European Economic Area. You consent to personal information about you being transferred outside your own country and, where applicable, outside the European Union / European Economic Area.
 
 ## Access to your personal information
 
 You may request details of personal information that we hold about you in accordance with the provisions of the Privacy Act 1988 (Cth). A small administrative fee may be payable for the provision of information. If you would like a copy of the information, which we hold about you or believe that any information we hold on you is inaccurate, out of date, incomplete, irrelevant or misleading, please email us at wordboxbypaulleangung@gmail.com.
 
-We reserve the right to refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
-
 ## Complaints about privacy
 
-If you have any complaints about our privacy practices, please feel free to send in details of your complaints to 10 Willandra Street, Ryde, New South Wales, 2112. We take complaints very seriously and will respond shortly after receiving written notice of your complaint.
+If you have any complaints about our privacy practices, please feel free to email in details of your complaints to wordboxbypaulleangung@gmail.com.
 
 ## Changes to Privacy Policy
 
-Please be aware that we may change this Privacy Policy in the future. We may modify this Policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on our website or notice board. Please check back from time to time to review our Privacy Policy.
+Please be aware that we may change this Privacy Policy in the future. We may modify this Policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on our website. Please check back from time to time to review our Privacy Policy.
 
 ## Website
 
 ### When you visit our website
-When you come to our website (https://wordboxbyung.github.io) we may collect certain information such as browser type, operating system, website visited immediately before coming to our site, etc. This information is used in an aggregated manner to analyse how people use our site, such that we can improve our service.
+When you come to our website we may collect certain information such as browser type, operating system, website visited immediately before coming to our site, etc. This information is used in an aggregated manner to analyse how people use our site, such that we can improve our service.
 
 ### Cookies
 We may from time to time use cookies on our website. Cookies are very small files which a website uses to identify you when you come back to the site and to store details about your use of the site. Cookies are not malicious programs that access or damage your computer. Most web browsers automatically accept cookies but you can choose to reject cookies by changing your browser settings. However, this may prevent you from taking full advantage of our website. Our website may from time to time use cookies to analyses website traffic and help us provide a better website visitor experience. In addition, cookies may be used to serve relevant ads to website visitors through third party services such as Google Adwords. These ads may appear on this website or other websites you visit.
